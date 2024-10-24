@@ -1,0 +1,30 @@
+﻿body
+{
+      header
+      {
+        background-color: #A2BFE1;
+        padding: 20px;
+        text-align: center; 
+      }
+            
+      table, th, td
+      {
+	    border: 1px solid white;
+  	    border-collapse: collapse;
+      }
+            
+      th, td 
+      {
+  	    padding: 10px;
+      }
+             
+      th 
+      {
+	    background-color: #FFFFFF;       
+      }
+
+      .touch:hover
+      {
+            background:#F0F8FF;
+      }
+}
